@@ -1,3 +1,7 @@
+// Javascript 1 - Module Assignment 3
+
+// Question 2
+
 
 const mainTargeter = document.querySelector(".regularMain");
 
